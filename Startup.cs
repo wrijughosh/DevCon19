@@ -25,7 +25,7 @@ namespace DBWeb
         {
             services.AddMvc();
 
-            string sConnectionString = "Server=sqlwgsvr.database.windows.net;Database=hrdb;User Id=bdotnet;Password=SuperSecret!;";
+            string sConnectionString = "ConnectionString Goes here";
 
             services.AddDbContext<HRContext>(options => options.UseSqlServer(sConnectionString));
         }
