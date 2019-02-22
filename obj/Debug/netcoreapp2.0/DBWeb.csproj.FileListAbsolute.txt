@@ -1,0 +1,11 @@
+D:\RandD\BDotnet23Feb2019\Practice\DBWeb\DBWeb\bin\Debug\netcoreapp2.0\DBWeb.deps.json
+D:\RandD\BDotnet23Feb2019\Practice\DBWeb\DBWeb\bin\Debug\netcoreapp2.0\DBWeb.runtimeconfig.json
+D:\RandD\BDotnet23Feb2019\Practice\DBWeb\DBWeb\bin\Debug\netcoreapp2.0\DBWeb.runtimeconfig.dev.json
+D:\RandD\BDotnet23Feb2019\Practice\DBWeb\DBWeb\bin\Debug\netcoreapp2.0\DBWeb.dll
+D:\RandD\BDotnet23Feb2019\Practice\DBWeb\DBWeb\obj\Debug\netcoreapp2.0\DBWeb.csprojAssemblyReference.cache
+D:\RandD\BDotnet23Feb2019\Practice\DBWeb\DBWeb\obj\Debug\netcoreapp2.0\DBWeb.csproj.CoreCompileInputs.cache
+D:\RandD\BDotnet23Feb2019\Practice\DBWeb\DBWeb\obj\Debug\netcoreapp2.0\DBWeb.AssemblyInfoInputs.cache
+D:\RandD\BDotnet23Feb2019\Practice\DBWeb\DBWeb\obj\Debug\netcoreapp2.0\DBWeb.AssemblyInfo.cs
+D:\RandD\BDotnet23Feb2019\Practice\DBWeb\DBWeb\bin\Debug\netcoreapp2.0\DBWeb.pdb
+D:\RandD\BDotnet23Feb2019\Practice\DBWeb\DBWeb\obj\Debug\netcoreapp2.0\DBWeb.dll
+D:\RandD\BDotnet23Feb2019\Practice\DBWeb\DBWeb\obj\Debug\netcoreapp2.0\DBWeb.pdb
